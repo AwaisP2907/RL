@@ -15,7 +15,8 @@ env/
 # Training outputs
 runs/*
 !runs/README.md
-models/*.zip
+models/*
+!models/README.md
 
 # OS / editor
 .DS_Store
