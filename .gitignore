@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Training outputs
+runs/*
+!runs/README.md
+models/*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
